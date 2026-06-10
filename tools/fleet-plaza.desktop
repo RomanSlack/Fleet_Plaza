@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Fleet Plaza
+Comment=Wii-Plaza-style fleet manager for Claude Code agents
+Exec=/home/roman/Fleet_Plaza/fleet-plaza.sh
+Icon=/home/roman/Fleet_Plaza/src-tauri/icons/128x128.png
+Terminal=false
+Categories=Development;Utility;
